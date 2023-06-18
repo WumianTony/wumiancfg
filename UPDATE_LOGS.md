@@ -6,6 +6,9 @@
   1. 优化 `File Path Tree`
   1. 创建 `git repo`
 
+  ### `patch 1`
+   1. 尝试修复 `github release` 路径引起的一些问题
+
  ## `[v1.5] 2023-03-08`
 
   1. 完善 `README.txt`
