@@ -9,6 +9,8 @@
 
 ### 1 配置说明：
 你需要对 `user` 文件夹内的两个文件进行修改，其他文件能看懂也可以改  
+<!-- Windows `C:\Program Files (x86)\Steam\userdata\<steamid>\730\local\cfg\config.cfg`
+macOS `/Users/<username>/Library/Application Support/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/config.cfg` -->
 1. `args.cfg` 是个人参数，包括准星、鼠标、画面等诸多设置  
     你需要将你的个人参数录入进来  
     *游戏内打开控制台，输入对应参数，系统会告诉你你这项参数的值*
