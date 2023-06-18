@@ -1,7 +1,8 @@
 # **注意事项**
 
 ### **本 CFG 配置文件由 Wumian_Tony 编写，欢迎交流但禁止商用**
-### **唯一[下载链接](https://bjea.lanzouo.com/csgocfg) `https://bjea.lanzouo.com/csgocfg` 防伪**
+### **唯一 [GitHub仓库](https://github.com/WumianTony/custom) `https://github.com/WumianTony/custom` 防伪**
+### **唯一 [压缩包下载链接](https://bjea.lanzouo.com/csgocfg) `https://bjea.lanzouo.com/csgocfg` 防伪**
 ### **务必按照下方[`[配置说明]`](#1-配置说明)，录入自己的参数，否则会同步成我的参数**
 
 ---
