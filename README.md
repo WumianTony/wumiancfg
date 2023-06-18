@@ -1,7 +1,7 @@
 # **注意事项**
 
 ### **本 CFG 配置文件由 Wumian_Tony 编写，欢迎交流但禁止商用**
-### **唯一 [GitHub仓库](https://github.com/WumianTony/custom) `https://github.com/WumianTony/custom` 防伪**
+### **唯一 [GitHub仓库](https://github.com/WumianTony/wumiancfg-csgo) `https://github.com/WumianTony/wumiancfg-csgo` 防伪**
 ### **唯一 [压缩包下载链接](https://bjea.lanzouo.com/csgocfg) `https://bjea.lanzouo.com/csgocfg` 防伪**
 ### **务必按照下方[`[配置说明]`](#1-配置说明)，录入自己的参数，否则会同步成我的参数**
 
@@ -25,7 +25,7 @@ macOS `/Users/<username>/Library/Application Support/Steam/steamapps/common/Coun
 你需要找到 `Counter-Strike Global Offensive\csgo\cfg` 目录下的 `autoexec.cfg`  
 加入这行指令  
 ```cfg
-exec custom/default
+exec wumiancfg-csgo/default
 ```
 如果不希望自启动，需要每次启动后使用一次指令
 
@@ -36,7 +36,7 @@ exec custom/default
 |`cfghelp`|帮助列表|
 
 ---
-### [附录1] [更新日志](https://github.com/WumianTony/custom/blob/main/UPDATE_LOGS.md)
+### [附录1] [更新日志](https://github.com/WumianTony/wumiancfg-csgo/blob/main/UPDATE_LOGS.md)
 
 ### [附录2] 项目内容（目录树）
 ```FPT

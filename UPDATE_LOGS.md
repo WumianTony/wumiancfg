@@ -12,8 +12,8 @@
   1. 新增 `Update Logs.txt` 用于记录
   1. 新增 `commands.cfg` 用于储存指令
   1. 诈骗指令 `scam`（Rick-roll 整活）
-  1. 按键 `V L Z X C Alt + -` 等已经统一挪到 `custom/user/binds.cfg` 内
-  1. `default.cfg` 中残余的参数已经统一挪到 `custom/user/args.cfg` 内
+  1. 按键 `V L Z X C Alt + -` 等已经统一挪到 `wumiancfg-csgo/user/binds.cfg` 内
+  1. `default.cfg` 中残余的参数已经统一挪到 `wumiancfg-csgo/user/args.cfg` 内
 
  ## `[v1.4] 2023-02-18`
 
@@ -22,7 +22,7 @@
   1. 新增 `binds.cfg` 用于储存键位
   1. 大部分参数与键位支持自定义
   1. 内置按键 `V L` 需要到 `default.cfg` 第 `13-14` 行修改
-  1. 跑图按键 `Z X C Alt + -` 需要到 `custom/training/projectile.cfg` 第 `31-36` 行修改
+  1. 跑图按键 `Z X C Alt + -` 需要到 `wumiancfg-csgo/training/projectile.cfg` 第 `31-36` 行修改
 
  ## `[v1.3] 2023-01`
 
