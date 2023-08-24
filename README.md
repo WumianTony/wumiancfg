@@ -1,9 +1,10 @@
 # **注意事项**
 
 ### **本 CFG 配置文件由 Wumian_Tony 编写，欢迎交流但禁止商用**
-### **唯一 [GitHub仓库](https://github.com/WumianTony/wumiancfgcsgo) `https://github.com/WumianTony/wumiancfgcsgo` 防伪**
+### **唯一 [GitHub仓库](https://github.com/WumianTony/wumiancfg) `https://github.com/WumianTony/wumiancfg` 防伪**
 ### **唯一 [压缩包下载链接](https://bjea.lanzouo.com/csgocfg) `https://bjea.lanzouo.com/csgocfg` 防伪**
 ### **务必按照下方[`[配置说明]`](#1-配置说明)，录入自己的参数，否则会同步成我的参数**
+### **或者使用 [命令行工具](https://github.com/WumianTony/csconfig) `https://github.com/WumianTony/csconfig` 防伪**
 
 ---
 
@@ -36,7 +37,7 @@ exec wumiancfg-csgo/default
 |`cfghelp`|帮助列表|
 
 ---
-### [附录1] [更新日志](https://github.com/WumianTony/wumiancfg-csgo/blob/main/UPDATE_LOGS.md)
+### [附录1] [更新日志](https://github.com/WumianTony/wumiancfg/blob/main/UPDATE_LOGS.md)
 
 ### [附录2] 项目内容（目录树）
 ```FPT
