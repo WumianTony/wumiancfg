@@ -1,6 +1,8 @@
 # **注意事项**
-
 ### **最近在转型 CS2，很多内容待更新（目前主要 focus on 代码部分，文档都是旧的）**
+### **CS2 [跳转](https://github.com/WumianTony/wumiancfg/tree/main-cs2)**
+### **CSGO [跳转](https://github.com/WumianTony/wumiancfg/tree/main-csgo)**
+
 ### **本 CFG 配置文件由 Wumian_Tony 编写，欢迎交流但禁止商用**
 ### **唯一 [GitHub仓库](https://github.com/WumianTony/wumiancfg) `https://github.com/WumianTony/wumiancfg` 防伪**
 ### **唯一 [压缩包下载链接](https://bjea.lanzouo.com/csgocfg) `https://bjea.lanzouo.com/csgocfg` 防伪**
